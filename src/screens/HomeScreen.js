@@ -607,3 +607,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#eee",
   },
 });
+
+// map
+// filter
+// indexOf
+// reducer
